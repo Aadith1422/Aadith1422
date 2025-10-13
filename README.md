@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Aadith!
+💻 Cybersecurity Enthusiast | 🧠 Learner | 🔒 Ethical Hacker in progress  
 
-<!--
-**Aadith1422/Aadith1422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Skills
+- Python | C | Java | Bash  
+- Network Security | IDS/IPS | Suricata  
+- Linux | VirtualBox | Wireshark  
 
-Here are some ideas to get you started:
+### 📫 Reach Me
+- 🌐 [LinkedIn](www.linkedin.com/in/aadithch)
+- ✉️ aadithchakkingal10@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
