@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aadith!
-💻 Cybersecurity Enthusiast | 🧠 Learner | 🔒 Ethical Hacker in progress  
+💻 Cybersecurity Enthusiast | 🧠 Learner |
 
 ### 🛠 Skills
 - Python | C | Java | Bash  
