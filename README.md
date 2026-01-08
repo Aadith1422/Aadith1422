@@ -13,4 +13,4 @@
 
 📫 Connect:
 - LinkedIn: (https://www.linkedin.com/in/aadithch)
-- Email: aadithchakkkingal100@gmail.com
+- Email: aadithchakkkingal10@gmail.com
