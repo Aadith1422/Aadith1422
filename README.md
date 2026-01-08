@@ -1,13 +1,16 @@
-# 👋 Hi, I'm Aadith!
-💻 Cybersecurity Enthusiast | 🧠 Learner |
+👋 Hi, I'm Aadith!
 
-### 🛠 Skills
-- Python | C | Java | Bash  
-- Network Security | IDS/IPS | Suricata  
-- Linux | VirtualBox | Wireshark  
+🛡️ SOC Analyst Trainee | Blue Team & Incident Response  
+🎓 B.Tech Computer Science | Cybersecurity @ Brototype
 
-### 📫 Reach Me
-- 🌐 [LinkedIn](www.linkedin.com/in/aadithch)
-- ✉️ aadithchakkingal10@gmail.com
+🔍 Hands-on experience with:
+- SOC alert triage & investigation
+- Incident response & phishing analysis
+- Log analysis, Linux security, and IDS/IPS
+- TryHackMe SOC & Blue Team labs
 
----
+🎯 Aspiring SOC Analyst focused on defending systems and responding to real-world threats.
+
+📫 Connect:
+- LinkedIn: (https://www.linkedin.com/in/aadithch)
+- Email: aadithchakkkingal100@gmail.com
